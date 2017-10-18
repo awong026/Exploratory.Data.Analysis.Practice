@@ -12,4 +12,4 @@ Functions used:
 5. Graphical functions like barplots and histograms
 6. cor() - Checks for correlations
 7. levels() - Useful for checking levels in categorical variables
-8. mean(), mode(), median(), var()- Gives mean, mode, median, and variance of data
+8. mean(), mode(), median(), var() - Gives mean, mode, median, and variance of data
